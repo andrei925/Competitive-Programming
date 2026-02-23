@@ -1,4 +1,5 @@
 //Subsirul de suma maxima
+//O(N)
 #include <iostream>
 #define NMAX 100005
 using namespace std;
@@ -34,4 +35,5 @@ int main()
   cout << left << ' ' << right;
   return 0;
 }
+
 
