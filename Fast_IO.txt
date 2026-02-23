@@ -1,0 +1,5 @@
+Fast I/O:
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+
+La inceputul functiei main, inainte de orice cin / cout.
