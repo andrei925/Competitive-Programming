@@ -1,3 +1,5 @@
+//Submatricea de suma maxima
+//O(N^3)
 #include <iostream>
 #define NMAX 1005
 using namespace std;
@@ -56,3 +58,4 @@ int main()
   cout << ans_right_row << ' ' << ans_right_column;
   return 0;
 }
+
