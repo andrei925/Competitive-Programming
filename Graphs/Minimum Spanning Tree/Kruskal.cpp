@@ -1,3 +1,6 @@
+// Need to use edge list for Kruskal
+// Time Complexity: O(mlogn)
+// Problem link: https://cses.fi/problemset/task/1675
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -78,3 +81,4 @@ int main()
     cout << ans;
   return 0;
 }
+
