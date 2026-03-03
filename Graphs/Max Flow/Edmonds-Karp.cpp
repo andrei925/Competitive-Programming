@@ -1,3 +1,5 @@
+// Maximum Flow (Edmonds-Karp Algorithm)
+// Time complexity: O(nm^2) in total, O(nm) BFS iterations with O(m) per BFS
 #include <fstream>
 #include <vector>
 #include <queue>
@@ -90,3 +92,4 @@ int main()
   cout << max_flow;
   return 0;
 }
+
